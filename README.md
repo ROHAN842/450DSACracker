@@ -1,4 +1,4 @@
-# [Peercoder](https://dsacracker.herokuapp.com/) ⭐
+# [450 DSA Cracker](https://dsacracker.herokuapp.com/) ⭐
 
 ![JavaScript](https://img.shields.io/badge/Powered%20By-JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
