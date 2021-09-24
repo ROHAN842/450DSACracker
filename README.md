@@ -23,7 +23,7 @@
 ## What is 450 DSA Cracker? 🤔
 
 #### 450 DSA Cracker is a web app which basically consists of 450 important questions of DSA given by Love Babbar which is helpful for placement purpose also.
-#### The front end is made with HTML5, CSS3 and Javascript while for maintaining successful routes between different pages I have used express handlebars in it.
+#### The front end is made with HTML5, CSS3, Bootstrap4 and Javascript while for maintaining successful routes between different pages I have used express handlebars in it.
 
 
 ## How it works? 🤔
